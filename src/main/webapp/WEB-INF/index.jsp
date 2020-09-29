@@ -28,6 +28,9 @@
 		</span>
 	</nav>
 	<div class="body-class">
+	<div class="mt-3 mb-4 row justify-content-center">
+		${errorMessage}
+	</div>
 		<div class="row col-md-12">
 		<div class="col-md-3"></div>
 		<div class="col-md-6">

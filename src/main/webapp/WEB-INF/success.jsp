@@ -28,7 +28,7 @@
 	</span></nav>
 	<div class="body-class">
 	<div class="row col-sm-12 justify-content-center">
-		<h3>From : ${from} , Message:  ${msg}</h3>
+		<h3> Id : ${id} From : ${from} , Message:  ${msg}</h3>
 	</div>
 	</div>
 	<div>
