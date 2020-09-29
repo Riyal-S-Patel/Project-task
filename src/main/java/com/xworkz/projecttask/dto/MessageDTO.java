@@ -12,6 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 @ToString
 @Slf4j
 public class MessageDTO implements Serializable {
+	private Integer id;
 	private String from;
 	private String message;
 	public MessageDTO() {
