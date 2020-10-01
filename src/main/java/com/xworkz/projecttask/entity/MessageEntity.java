@@ -16,7 +16,7 @@ import lombok.extern.slf4j.Slf4j;
 @Getter
 @Setter
 @Entity
-@Table(name="message_details")
+@Table(name = "message_details")
 public class MessageEntity implements Serializable {
 	@Id
 	@GenericGenerator(name = "ref", strategy = "increment")
