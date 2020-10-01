@@ -15,6 +15,7 @@ public class MessageDTO implements Serializable {
 	private Integer id;
 	private String from;
 	private String message;
+
 	public MessageDTO() {
 		log.info(this.getClass().getSimpleName() + " is created");
 	}

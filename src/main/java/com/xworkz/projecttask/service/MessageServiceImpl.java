@@ -7,7 +7,6 @@ import com.xworkz.projecttask.dto.MessageDTO;
 import com.xworkz.projecttask.entity.MessageEntity;
 import com.xworkz.projecttask.repository.IMessageRepository;
 
-import ch.qos.logback.core.db.dialect.MsSQLDialect;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
