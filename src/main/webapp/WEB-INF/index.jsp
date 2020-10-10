@@ -21,7 +21,7 @@
 	<nav class="navbar navbar-dark bg-dark"> <span
 		class="navbar-brand mb-0 h1"><h2>
 			<b>X-workz</b>
-		</h2> </span> </nav>
+		</h2> </span><span class="navbar-text"> <a href="getAppInfo">App Info</a> </span> </nav>
 	<div class="body-class">
 		<div class="mt-3 mb-4 row justify-content-center">
 			${errorMessage}</div>
